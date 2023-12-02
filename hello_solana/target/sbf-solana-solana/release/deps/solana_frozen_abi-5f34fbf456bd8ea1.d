@@ -1,0 +1,10 @@
+/workspaces/sbc-workspace-fork/hello_solana/target/sbf-solana-solana/release/deps/solana_frozen_abi-5f34fbf456bd8ea1.rmeta: /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/lib.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/abi_digester.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/abi_example.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/hash.rs
+
+/workspaces/sbc-workspace-fork/hello_solana/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-5f34fbf456bd8ea1.rlib: /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/lib.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/abi_digester.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/abi_example.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/hash.rs
+
+/workspaces/sbc-workspace-fork/hello_solana/target/sbf-solana-solana/release/deps/solana_frozen_abi-5f34fbf456bd8ea1.d: /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/lib.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/abi_digester.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/abi_example.rs /home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/hash.rs
+
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/lib.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/abi_digester.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/abi_example.rs:
+/home/codespace/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.17.7/src/hash.rs:
