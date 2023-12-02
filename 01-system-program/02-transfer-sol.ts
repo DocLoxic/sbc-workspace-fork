@@ -11,12 +11,12 @@ async function main() {
     const url = web3.clusterApiUrl('devnet');
     const conn = new web3.Connection(url);
 
-    const publicKeyTo = new web3.PublicKey('8c37TTwMig3Z8mCJzARdmAeeqkGiN358nCtvrrbVExVs');
+    const publicKeyTo = new web3.PublicKey('EyCgsmmbWoZUuJ4khHtsSCjuQzupoDAsP8rEBE6UjFxP');
 
     const instruction = web3.SystemProgram.transfer({
         fromPubkey: userKeypair.publicKey,
         toPubkey: publicKeyTo,
-        lamports: web3.LAMPORTS_PER_SOL * 1,
+        lamports: web3.LAMPORTS_PER_SOL * 3,
     });
 
     const transaction = new web3.Transaction();
